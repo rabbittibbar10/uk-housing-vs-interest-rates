@@ -1,0 +1,1959 @@
+date,region,price_index,bank_rate
+2011-01-01,North East,73.5,0.5
+2011-02-01,North East,73.3,0.5
+2011-03-01,North East,72.6,0.5
+2011-04-01,North East,74.9,0.5
+2011-05-01,North East,75.3,0.5
+2011-06-01,North East,75.1,0.5
+2011-07-01,North East,73.8,0.5
+2011-08-01,North East,73.4,0.5
+2011-09-01,North East,73.5,0.5
+2011-10-01,North East,72.9,0.5
+2011-11-01,North East,73.4,0.5
+2011-12-01,North East,72.3,0.5
+2012-01-01,North East,70.9,0.5
+2012-02-01,North East,71.4,0.5
+2012-03-01,North East,73.2,0.5
+2012-04-01,North East,72.8,0.5
+2012-05-01,North East,72.5,0.5
+2012-06-01,North East,73.7,0.5
+2012-07-01,North East,73.5,0.5
+2012-08-01,North East,75.1,0.5
+2012-09-01,North East,74.1,0.5
+2012-10-01,North East,73.3,0.5
+2012-11-01,North East,73.3,0.5
+2012-12-01,North East,72.1,0.5
+2013-01-01,North East,71.3,0.5
+2013-02-01,North East,70.3,0.5
+2013-03-01,North East,72.2,0.5
+2013-04-01,North East,72.4,0.5
+2013-05-01,North East,72.7,0.5
+2013-06-01,North East,72.5,0.5
+2013-07-01,North East,74.4,0.5
+2013-08-01,North East,75.4,0.5
+2013-09-01,North East,74.7,0.5
+2013-10-01,North East,70.8,0.5
+2013-11-01,North East,73.1,0.5
+2013-12-01,North East,72.9,0.5
+2014-01-01,North East,71.8,0.5
+2014-02-01,North East,72.0,0.5
+2014-03-01,North East,73.0,0.5
+2014-04-01,North East,74.2,0.5
+2014-05-01,North East,74.4,0.5
+2014-06-01,North East,76.0,0.5
+2014-07-01,North East,76.1,0.5
+2014-08-01,North East,76.1,0.5
+2014-09-01,North East,75.4,0.5
+2014-10-01,North East,74.4,0.5
+2014-11-01,North East,74.5,0.5
+2014-12-01,North East,74.5,0.5
+2015-01-01,North East,73.5,0.5
+2015-02-01,North East,74.4,0.5
+2015-03-01,North East,73.8,0.5
+2015-04-01,North East,76.3,0.5
+2015-05-01,North East,75.7,0.5
+2015-06-01,North East,76.9,0.5
+2015-07-01,North East,77.0,0.5
+2015-08-01,North East,77.6,0.5
+2015-09-01,North East,77.4,0.5
+2015-10-01,North East,76.2,0.5
+2015-11-01,North East,77.2,0.5
+2015-12-01,North East,77.5,0.5
+2016-01-01,North East,76.0,0.5
+2016-02-01,North East,76.0,0.5
+2016-03-01,North East,77.1,0.5
+2016-04-01,North East,76.8,0.5
+2016-05-01,North East,78.2,0.5
+2016-06-01,North East,79.6,0.5
+2016-07-01,North East,80.1,0.5
+2016-08-01,North East,79.1,0.5
+2016-09-01,North East,78.3,0.25
+2016-10-01,North East,77.9,0.25
+2016-11-01,North East,78.4,0.25
+2016-12-01,North East,79.3,0.25
+2017-01-01,North East,76.6,0.25
+2017-02-01,North East,77.8,0.25
+2017-03-01,North East,76.4,0.25
+2017-04-01,North East,78.4,0.25
+2017-05-01,North East,79.7,0.25
+2017-06-01,North East,80.4,0.25
+2017-07-01,North East,80.3,0.25
+2017-08-01,North East,81.4,0.25
+2017-09-01,North East,80.0,0.25
+2017-10-01,North East,80.7,0.25
+2017-11-01,North East,79.8,0.25
+2017-12-01,North East,81.6,0.5
+2018-01-01,North East,77.9,0.5
+2018-02-01,North East,79.3,0.5
+2018-03-01,North East,77.8,0.5
+2018-04-01,North East,80.5,0.5
+2018-05-01,North East,80.8,0.5
+2018-06-01,North East,80.3,0.5
+2018-07-01,North East,82.3,0.5
+2018-08-01,North East,81.8,0.5
+2018-09-01,North East,81.7,0.75
+2018-10-01,North East,82.0,0.75
+2018-11-01,North East,80.9,0.75
+2018-12-01,North East,80.7,0.75
+2019-01-01,North East,78.7,0.75
+2019-02-01,North East,78.1,0.75
+2019-03-01,North East,78.2,0.75
+2019-04-01,North East,80.8,0.75
+2019-05-01,North East,80.8,0.75
+2019-06-01,North East,81.2,0.75
+2019-07-01,North East,81.5,0.75
+2019-08-01,North East,82.5,0.75
+2019-09-01,North East,82.8,0.75
+2019-10-01,North East,81.1,0.75
+2019-11-01,North East,81.2,0.75
+2019-12-01,North East,81.1,0.75
+2020-01-01,North East,79.9,0.75
+2020-02-01,North East,79.7,0.75
+2020-03-01,North East,80.5,0.75
+2020-04-01,North East,77.3,0.1
+2020-05-01,North East,80.3,0.1
+2020-06-01,North East,81.3,0.1
+2020-07-01,North East,82.0,0.1
+2020-08-01,North East,82.5,0.1
+2020-09-01,North East,84.6,0.1
+2020-10-01,North East,84.5,0.1
+2020-11-01,North East,86.2,0.1
+2020-12-01,North East,87.2,0.1
+2021-01-01,North East,87.9,0.1
+2021-02-01,North East,88.7,0.1
+2021-03-01,North East,90.3,0.1
+2021-04-01,North East,88.8,0.1
+2021-05-01,North East,88.7,0.1
+2021-06-01,North East,96.2,0.1
+2021-07-01,North East,89.1,0.1
+2021-08-01,North East,90.8,0.1
+2021-09-01,North East,97.4,0.1
+2021-10-01,North East,90.7,0.1
+2021-11-01,North East,91.8,0.1
+2021-12-01,North East,93.0,0.1
+2022-01-01,North East,93.2,0.25
+2022-02-01,North East,93.3,0.25
+2022-03-01,North East,95.1,0.5
+2022-04-01,North East,95.8,0.75
+2022-05-01,North East,96.4,0.75
+2022-06-01,North East,98.0,1.0
+2022-07-01,North East,100.5,1.25
+2022-08-01,North East,100.6,1.25
+2022-09-01,North East,101.4,1.75
+2022-10-01,North East,101.9,2.25
+2022-11-01,North East,101.5,2.25
+2022-12-01,North East,101.0,3.0
+2023-01-01,North East,100.0,3.5
+2023-02-01,North East,98.0,3.5
+2023-03-01,North East,96.1,4.0
+2023-04-01,North East,97.8,4.25
+2023-05-01,North East,97.4,4.25
+2023-06-01,North East,99.1,4.5
+2023-07-01,North East,99.5,5.0
+2023-08-01,North East,102.4,5.0
+2023-09-01,North East,100.5,5.25
+2023-10-01,North East,100.1,5.25
+2023-11-01,North East,100.0,5.25
+2023-12-01,North East,100.3,5.25
+2024-01-01,North East,98.1,5.25
+2024-02-01,North East,98.6,5.25
+2024-03-01,North East,97.6,5.25
+2024-04-01,North East,97.2,5.25
+2024-05-01,North East,99.2,5.25
+2024-06-01,North East,100.7,5.25
+2024-07-01,North East,100.6,5.25
+2024-08-01,North East,101.7,5.0
+2024-09-01,North East,103.6,5.0
+2024-10-01,North East,103.1,5.0
+2024-11-01,North East,103.4,5.0
+2024-12-01,North East,104.9,4.75
+2025-01-01,North East,102.9,4.75
+2025-02-01,North East,104.9,4.75
+2025-03-01,North East,109.0,4.5
+2025-04-01,North East,100.0,4.5
+2025-05-01,North East,103.6,4.5
+2025-06-01,North East,106.7,4.25
+2025-07-01,North East,107.0,4.25
+2025-08-01,North East,107.6,4.25
+2025-09-01,North East,106.8,4.0
+2025-10-01,North East,108.2,4.0
+2011-01-01,North West,61.2,0.5
+2011-02-01,North West,60.8,0.5
+2011-03-01,North West,60.2,0.5
+2011-04-01,North West,61.0,0.5
+2011-05-01,North West,60.7,0.5
+2011-06-01,North West,60.5,0.5
+2011-07-01,North West,61.4,0.5
+2011-08-01,North West,61.9,0.5
+2011-09-01,North West,61.5,0.5
+2011-10-01,North West,61.1,0.5
+2011-11-01,North West,60.0,0.5
+2011-12-01,North West,60.3,0.5
+2012-01-01,North West,59.3,0.5
+2012-02-01,North West,60.0,0.5
+2012-03-01,North West,60.2,0.5
+2012-04-01,North West,60.4,0.5
+2012-05-01,North West,60.0,0.5
+2012-06-01,North West,61.2,0.5
+2012-07-01,North West,60.8,0.5
+2012-08-01,North West,61.3,0.5
+2012-09-01,North West,61.2,0.5
+2012-10-01,North West,59.8,0.5
+2012-11-01,North West,60.7,0.5
+2012-12-01,North West,60.2,0.5
+2013-01-01,North West,58.7,0.5
+2013-02-01,North West,59.9,0.5
+2013-03-01,North West,59.8,0.5
+2013-04-01,North West,60.1,0.5
+2013-05-01,North West,60.3,0.5
+2013-06-01,North West,61.1,0.5
+2013-07-01,North West,61.1,0.5
+2013-08-01,North West,62.0,0.5
+2013-09-01,North West,61.9,0.5
+2013-10-01,North West,60.8,0.5
+2013-11-01,North West,61.3,0.5
+2013-12-01,North West,61.9,0.5
+2014-01-01,North West,61.1,0.5
+2014-02-01,North West,61.9,0.5
+2014-03-01,North West,61.3,0.5
+2014-04-01,North West,62.9,0.5
+2014-05-01,North West,63.2,0.5
+2014-06-01,North West,64.0,0.5
+2014-07-01,North West,64.4,0.5
+2014-08-01,North West,65.1,0.5
+2014-09-01,North West,65.0,0.5
+2014-10-01,North West,64.7,0.5
+2014-11-01,North West,64.5,0.5
+2014-12-01,North West,64.4,0.5
+2015-01-01,North West,64.1,0.5
+2015-02-01,North West,64.6,0.5
+2015-03-01,North West,63.7,0.5
+2015-04-01,North West,64.7,0.5
+2015-05-01,North West,65.8,0.5
+2015-06-01,North West,65.6,0.5
+2015-07-01,North West,66.7,0.5
+2015-08-01,North West,67.1,0.5
+2015-09-01,North West,67.3,0.5
+2015-10-01,North West,66.9,0.5
+2015-11-01,North West,67.3,0.5
+2015-12-01,North West,67.3,0.5
+2016-01-01,North West,67.4,0.5
+2016-02-01,North West,67.4,0.5
+2016-03-01,North West,66.6,0.5
+2016-04-01,North West,69.1,0.5
+2016-05-01,North West,69.6,0.5
+2016-06-01,North West,69.8,0.5
+2016-07-01,North West,70.8,0.5
+2016-08-01,North West,70.8,0.5
+2016-09-01,North West,70.7,0.25
+2016-10-01,North West,69.9,0.25
+2016-11-01,North West,70.5,0.25
+2016-12-01,North West,70.5,0.25
+2017-01-01,North West,70.4,0.25
+2017-02-01,North West,71.1,0.25
+2017-03-01,North West,70.5,0.25
+2017-04-01,North West,71.7,0.25
+2017-05-01,North West,72.1,0.25
+2017-06-01,North West,73.1,0.25
+2017-07-01,North West,73.9,0.25
+2017-08-01,North West,74.6,0.25
+2017-09-01,North West,74.3,0.25
+2017-10-01,North West,74.1,0.25
+2017-11-01,North West,74.3,0.25
+2017-12-01,North West,74.8,0.5
+2018-01-01,North West,73.3,0.5
+2018-02-01,North West,74.2,0.5
+2018-03-01,North West,73.3,0.5
+2018-04-01,North West,74.3,0.5
+2018-05-01,North West,74.8,0.5
+2018-06-01,North West,75.5,0.5
+2018-07-01,North West,76.5,0.5
+2018-08-01,North West,76.8,0.5
+2018-09-01,North West,76.8,0.75
+2018-10-01,North West,77.2,0.75
+2018-11-01,North West,76.9,0.75
+2018-12-01,North West,76.7,0.75
+2019-01-01,North West,76.0,0.75
+2019-02-01,North West,76.4,0.75
+2019-03-01,North West,75.7,0.75
+2019-04-01,North West,76.4,0.75
+2019-05-01,North West,77.3,0.75
+2019-06-01,North West,77.2,0.75
+2019-07-01,North West,78.3,0.75
+2019-08-01,North West,79.0,0.75
+2019-09-01,North West,78.7,0.75
+2019-10-01,North West,78.6,0.75
+2019-11-01,North West,78.2,0.75
+2019-12-01,North West,77.8,0.75
+2020-01-01,North West,77.5,0.75
+2020-02-01,North West,77.6,0.75
+2020-03-01,North West,78.5,0.75
+2020-04-01,North West,77.2,0.1
+2020-05-01,North West,77.4,0.1
+2020-06-01,North West,79.5,0.1
+2020-07-01,North West,80.7,0.1
+2020-08-01,North West,81.7,0.1
+2020-09-01,North West,82.1,0.1
+2020-10-01,North West,83.8,0.1
+2020-11-01,North West,84.1,0.1
+2020-12-01,North West,85.6,0.1
+2021-01-01,North West,86.3,0.1
+2021-02-01,North West,87.7,0.1
+2021-03-01,North West,89.1,0.1
+2021-04-01,North West,87.4,0.1
+2021-05-01,North West,87.6,0.1
+2021-06-01,North West,94.8,0.1
+2021-07-01,North West,87.0,0.1
+2021-08-01,North West,90.4,0.1
+2021-09-01,North West,94.8,0.1
+2021-10-01,North West,89.7,0.1
+2021-11-01,North West,92.5,0.1
+2021-12-01,North West,93.9,0.1
+2022-01-01,North West,94.5,0.25
+2022-02-01,North West,94.7,0.25
+2022-03-01,North West,95.2,0.5
+2022-04-01,North West,96.7,0.75
+2022-05-01,North West,97.7,0.75
+2022-06-01,North West,98.4,1.0
+2022-07-01,North West,100.9,1.25
+2022-08-01,North West,101.7,1.25
+2022-09-01,North West,102.7,1.75
+2022-10-01,North West,102.3,2.25
+2022-11-01,North West,102.7,2.25
+2022-12-01,North West,101.7,3.0
+2023-01-01,North West,100.0,3.5
+2023-02-01,North West,99.5,3.5
+2023-03-01,North West,98.4,4.0
+2023-04-01,North West,98.4,4.25
+2023-05-01,North West,99.4,4.25
+2023-06-01,North West,100.2,4.5
+2023-07-01,North West,100.8,5.0
+2023-08-01,North West,101.5,5.0
+2023-09-01,North West,101.6,5.25
+2023-10-01,North West,101.7,5.25
+2023-11-01,North West,101.0,5.25
+2023-12-01,North West,101.4,5.25
+2024-01-01,North West,99.6,5.25
+2024-02-01,North West,99.4,5.25
+2024-03-01,North West,100.4,5.25
+2024-04-01,North West,100.5,5.25
+2024-05-01,North West,102.6,5.25
+2024-06-01,North West,102.3,5.25
+2024-07-01,North West,103.1,5.25
+2024-08-01,North West,105.0,5.0
+2024-09-01,North West,105.3,5.0
+2024-10-01,North West,105.2,5.0
+2024-11-01,North West,105.4,5.0
+2024-12-01,North West,105.2,4.75
+2025-01-01,North West,105.4,4.75
+2025-02-01,North West,106.1,4.75
+2025-03-01,North West,110.1,4.5
+2025-04-01,North West,102.0,4.5
+2025-05-01,North West,105.4,4.5
+2025-06-01,North West,107.2,4.25
+2025-07-01,North West,107.7,4.25
+2025-08-01,North West,109.3,4.25
+2025-09-01,North West,108.2,4.0
+2025-10-01,North West,108.5,4.0
+2011-01-01,Yorkshire and The Humber,63.3,0.5
+2011-02-01,Yorkshire and The Humber,64.3,0.5
+2011-03-01,Yorkshire and The Humber,62.8,0.5
+2011-04-01,Yorkshire and The Humber,64.7,0.5
+2011-05-01,Yorkshire and The Humber,64.7,0.5
+2011-06-01,Yorkshire and The Humber,64.0,0.5
+2011-07-01,Yorkshire and The Humber,64.4,0.5
+2011-08-01,Yorkshire and The Humber,65.0,0.5
+2011-09-01,Yorkshire and The Humber,64.6,0.5
+2011-10-01,Yorkshire and The Humber,63.5,0.5
+2011-11-01,Yorkshire and The Humber,63.8,0.5
+2011-12-01,Yorkshire and The Humber,63.7,0.5
+2012-01-01,Yorkshire and The Humber,62.3,0.5
+2012-02-01,Yorkshire and The Humber,62.8,0.5
+2012-03-01,Yorkshire and The Humber,63.2,0.5
+2012-04-01,Yorkshire and The Humber,62.9,0.5
+2012-05-01,Yorkshire and The Humber,63.7,0.5
+2012-06-01,Yorkshire and The Humber,64.3,0.5
+2012-07-01,Yorkshire and The Humber,64.4,0.5
+2012-08-01,Yorkshire and The Humber,64.7,0.5
+2012-09-01,Yorkshire and The Humber,64.1,0.5
+2012-10-01,Yorkshire and The Humber,63.5,0.5
+2012-11-01,Yorkshire and The Humber,64.0,0.5
+2012-12-01,Yorkshire and The Humber,63.7,0.5
+2013-01-01,Yorkshire and The Humber,61.7,0.5
+2013-02-01,Yorkshire and The Humber,62.9,0.5
+2013-03-01,Yorkshire and The Humber,62.7,0.5
+2013-04-01,Yorkshire and The Humber,62.9,0.5
+2013-05-01,Yorkshire and The Humber,63.9,0.5
+2013-06-01,Yorkshire and The Humber,64.2,0.5
+2013-07-01,Yorkshire and The Humber,64.6,0.5
+2013-08-01,Yorkshire and The Humber,64.8,0.5
+2013-09-01,Yorkshire and The Humber,65.4,0.5
+2013-10-01,Yorkshire and The Humber,64.3,0.5
+2013-11-01,Yorkshire and The Humber,64.7,0.5
+2013-12-01,Yorkshire and The Humber,65.5,0.5
+2014-01-01,Yorkshire and The Humber,64.6,0.5
+2014-02-01,Yorkshire and The Humber,65.6,0.5
+2014-03-01,Yorkshire and The Humber,64.7,0.5
+2014-04-01,Yorkshire and The Humber,66.6,0.5
+2014-05-01,Yorkshire and The Humber,67.0,0.5
+2014-06-01,Yorkshire and The Humber,67.0,0.5
+2014-07-01,Yorkshire and The Humber,67.8,0.5
+2014-08-01,Yorkshire and The Humber,68.6,0.5
+2014-09-01,Yorkshire and The Humber,67.7,0.5
+2014-10-01,Yorkshire and The Humber,68.1,0.5
+2014-11-01,Yorkshire and The Humber,67.9,0.5
+2014-12-01,Yorkshire and The Humber,68.4,0.5
+2015-01-01,Yorkshire and The Humber,66.9,0.5
+2015-02-01,Yorkshire and The Humber,67.3,0.5
+2015-03-01,Yorkshire and The Humber,67.7,0.5
+2015-04-01,Yorkshire and The Humber,68.0,0.5
+2015-05-01,Yorkshire and The Humber,69.6,0.5
+2015-06-01,Yorkshire and The Humber,69.7,0.5
+2015-07-01,Yorkshire and The Humber,71.1,0.5
+2015-08-01,Yorkshire and The Humber,71.4,0.5
+2015-09-01,Yorkshire and The Humber,71.0,0.5
+2015-10-01,Yorkshire and The Humber,70.9,0.5
+2015-11-01,Yorkshire and The Humber,71.2,0.5
+2015-12-01,Yorkshire and The Humber,71.5,0.5
+2016-01-01,Yorkshire and The Humber,71.0,0.5
+2016-02-01,Yorkshire and The Humber,71.3,0.5
+2016-03-01,Yorkshire and The Humber,70.6,0.5
+2016-04-01,Yorkshire and The Humber,72.8,0.5
+2016-05-01,Yorkshire and The Humber,73.0,0.5
+2016-06-01,Yorkshire and The Humber,73.8,0.5
+2016-07-01,Yorkshire and The Humber,74.3,0.5
+2016-08-01,Yorkshire and The Humber,74.4,0.5
+2016-09-01,Yorkshire and The Humber,73.9,0.25
+2016-10-01,Yorkshire and The Humber,73.9,0.25
+2016-11-01,Yorkshire and The Humber,74.3,0.25
+2016-12-01,Yorkshire and The Humber,74.9,0.25
+2017-01-01,Yorkshire and The Humber,73.1,0.25
+2017-02-01,Yorkshire and The Humber,74.0,0.25
+2017-03-01,Yorkshire and The Humber,73.5,0.25
+2017-04-01,Yorkshire and The Humber,75.3,0.25
+2017-05-01,Yorkshire and The Humber,75.9,0.25
+2017-06-01,Yorkshire and The Humber,76.5,0.25
+2017-07-01,Yorkshire and The Humber,76.9,0.25
+2017-08-01,Yorkshire and The Humber,77.6,0.25
+2017-09-01,Yorkshire and The Humber,77.6,0.25
+2017-10-01,Yorkshire and The Humber,77.1,0.25
+2017-11-01,Yorkshire and The Humber,77.2,0.25
+2017-12-01,Yorkshire and The Humber,77.8,0.5
+2018-01-01,Yorkshire and The Humber,76.6,0.5
+2018-02-01,Yorkshire and The Humber,76.5,0.5
+2018-03-01,Yorkshire and The Humber,76.9,0.5
+2018-04-01,Yorkshire and The Humber,77.3,0.5
+2018-05-01,Yorkshire and The Humber,78.4,0.5
+2018-06-01,Yorkshire and The Humber,78.8,0.5
+2018-07-01,Yorkshire and The Humber,79.6,0.5
+2018-08-01,Yorkshire and The Humber,80.6,0.5
+2018-09-01,Yorkshire and The Humber,79.7,0.75
+2018-10-01,Yorkshire and The Humber,79.4,0.75
+2018-11-01,Yorkshire and The Humber,79.3,0.75
+2018-12-01,Yorkshire and The Humber,79.6,0.75
+2019-01-01,Yorkshire and The Humber,78.8,0.75
+2019-02-01,Yorkshire and The Humber,78.2,0.75
+2019-03-01,Yorkshire and The Humber,79.0,0.75
+2019-04-01,Yorkshire and The Humber,79.5,0.75
+2019-05-01,Yorkshire and The Humber,79.7,0.75
+2019-06-01,Yorkshire and The Humber,80.4,0.75
+2019-07-01,Yorkshire and The Humber,81.0,0.75
+2019-08-01,Yorkshire and The Humber,81.3,0.75
+2019-09-01,Yorkshire and The Humber,81.3,0.75
+2019-10-01,Yorkshire and The Humber,81.6,0.75
+2019-11-01,Yorkshire and The Humber,81.0,0.75
+2019-12-01,Yorkshire and The Humber,81.4,0.75
+2020-01-01,Yorkshire and The Humber,80.8,0.75
+2020-02-01,Yorkshire and The Humber,80.7,0.75
+2020-03-01,Yorkshire and The Humber,81.2,0.75
+2020-04-01,Yorkshire and The Humber,78.7,0.1
+2020-05-01,Yorkshire and The Humber,81.0,0.1
+2020-06-01,Yorkshire and The Humber,82.5,0.1
+2020-07-01,Yorkshire and The Humber,82.9,0.1
+2020-08-01,Yorkshire and The Humber,84.0,0.1
+2020-09-01,Yorkshire and The Humber,84.4,0.1
+2020-10-01,Yorkshire and The Humber,85.6,0.1
+2020-11-01,Yorkshire and The Humber,87.5,0.1
+2020-12-01,Yorkshire and The Humber,88.1,0.1
+2021-01-01,Yorkshire and The Humber,88.9,0.1
+2021-02-01,Yorkshire and The Humber,89.4,0.1
+2021-03-01,Yorkshire and The Humber,90.1,0.1
+2021-04-01,Yorkshire and The Humber,88.4,0.1
+2021-05-01,Yorkshire and The Humber,89.3,0.1
+2021-06-01,Yorkshire and The Humber,96.1,0.1
+2021-07-01,Yorkshire and The Humber,88.2,0.1
+2021-08-01,Yorkshire and The Humber,91.3,0.1
+2021-09-01,Yorkshire and The Humber,95.9,0.1
+2021-10-01,Yorkshire and The Humber,90.7,0.1
+2021-11-01,Yorkshire and The Humber,93.4,0.1
+2021-12-01,Yorkshire and The Humber,94.3,0.1
+2022-01-01,Yorkshire and The Humber,95.1,0.25
+2022-02-01,Yorkshire and The Humber,95.9,0.25
+2022-03-01,Yorkshire and The Humber,95.5,0.5
+2022-04-01,Yorkshire and The Humber,96.5,0.75
+2022-05-01,Yorkshire and The Humber,98.7,0.75
+2022-06-01,Yorkshire and The Humber,99.6,1.0
+2022-07-01,Yorkshire and The Humber,101.4,1.25
+2022-08-01,Yorkshire and The Humber,102.0,1.25
+2022-09-01,Yorkshire and The Humber,102.7,1.75
+2022-10-01,Yorkshire and The Humber,103.0,2.25
+2022-11-01,Yorkshire and The Humber,103.4,2.25
+2022-12-01,Yorkshire and The Humber,103.1,3.0
+2023-01-01,Yorkshire and The Humber,100.0,3.5
+2023-02-01,Yorkshire and The Humber,100.0,3.5
+2023-03-01,Yorkshire and The Humber,97.7,4.0
+2023-04-01,Yorkshire and The Humber,99.3,4.25
+2023-05-01,Yorkshire and The Humber,98.8,4.25
+2023-06-01,Yorkshire and The Humber,100.9,4.5
+2023-07-01,Yorkshire and The Humber,101.8,5.0
+2023-08-01,Yorkshire and The Humber,103.2,5.0
+2023-09-01,Yorkshire and The Humber,101.4,5.25
+2023-10-01,Yorkshire and The Humber,102.0,5.25
+2023-11-01,Yorkshire and The Humber,101.2,5.25
+2023-12-01,Yorkshire and The Humber,100.5,5.25
+2024-01-01,Yorkshire and The Humber,100.0,5.25
+2024-02-01,Yorkshire and The Humber,99.7,5.25
+2024-03-01,Yorkshire and The Humber,100.6,5.25
+2024-04-01,Yorkshire and The Humber,100.2,5.25
+2024-05-01,Yorkshire and The Humber,101.2,5.25
+2024-06-01,Yorkshire and The Humber,103.3,5.25
+2024-07-01,Yorkshire and The Humber,103.3,5.25
+2024-08-01,Yorkshire and The Humber,105.4,5.0
+2024-09-01,Yorkshire and The Humber,103.8,5.0
+2024-10-01,Yorkshire and The Humber,104.3,5.0
+2024-11-01,Yorkshire and The Humber,105.3,5.0
+2024-12-01,Yorkshire and The Humber,105.3,4.75
+2025-01-01,Yorkshire and The Humber,104.4,4.75
+2025-02-01,Yorkshire and The Humber,105.9,4.75
+2025-03-01,Yorkshire and The Humber,109.3,4.5
+2025-04-01,Yorkshire and The Humber,102.3,4.5
+2025-05-01,Yorkshire and The Humber,105.3,4.5
+2025-06-01,Yorkshire and The Humber,105.6,4.25
+2025-07-01,Yorkshire and The Humber,106.9,4.25
+2025-08-01,Yorkshire and The Humber,108.0,4.25
+2025-09-01,Yorkshire and The Humber,107.8,4.0
+2025-10-01,Yorkshire and The Humber,107.6,4.0
+2011-01-01,East Midlands,55.8,0.5
+2011-02-01,East Midlands,56.2,0.5
+2011-03-01,East Midlands,55.8,0.5
+2011-04-01,East Midlands,56.1,0.5
+2011-05-01,East Midlands,56.3,0.5
+2011-06-01,East Midlands,56.4,0.5
+2011-07-01,East Midlands,57.3,0.5
+2011-08-01,East Midlands,57.5,0.5
+2011-09-01,East Midlands,56.8,0.5
+2011-10-01,East Midlands,56.3,0.5
+2011-11-01,East Midlands,56.4,0.5
+2011-12-01,East Midlands,56.8,0.5
+2012-01-01,East Midlands,55.8,0.5
+2012-02-01,East Midlands,55.7,0.5
+2012-03-01,East Midlands,56.1,0.5
+2012-04-01,East Midlands,56.7,0.5
+2012-05-01,East Midlands,56.6,0.5
+2012-06-01,East Midlands,57.1,0.5
+2012-07-01,East Midlands,57.7,0.5
+2012-08-01,East Midlands,57.2,0.5
+2012-09-01,East Midlands,57.0,0.5
+2012-10-01,East Midlands,57.0,0.5
+2012-11-01,East Midlands,57.1,0.5
+2012-12-01,East Midlands,56.9,0.5
+2013-01-01,East Midlands,56.3,0.5
+2013-02-01,East Midlands,56.3,0.5
+2013-03-01,East Midlands,56.7,0.5
+2013-04-01,East Midlands,57.0,0.5
+2013-05-01,East Midlands,57.7,0.5
+2013-06-01,East Midlands,57.8,0.5
+2013-07-01,East Midlands,58.3,0.5
+2013-08-01,East Midlands,58.9,0.5
+2013-09-01,East Midlands,58.7,0.5
+2013-10-01,East Midlands,59.1,0.5
+2013-11-01,East Midlands,58.7,0.5
+2013-12-01,East Midlands,59.7,0.5
+2014-01-01,East Midlands,59.4,0.5
+2014-02-01,East Midlands,60.0,0.5
+2014-03-01,East Midlands,59.9,0.5
+2014-04-01,East Midlands,61.1,0.5
+2014-05-01,East Midlands,61.4,0.5
+2014-06-01,East Midlands,62.0,0.5
+2014-07-01,East Midlands,62.5,0.5
+2014-08-01,East Midlands,63.4,0.5
+2014-09-01,East Midlands,63.5,0.5
+2014-10-01,East Midlands,63.1,0.5
+2014-11-01,East Midlands,63.0,0.5
+2014-12-01,East Midlands,63.0,0.5
+2015-01-01,East Midlands,62.9,0.5
+2015-02-01,East Midlands,63.1,0.5
+2015-03-01,East Midlands,63.3,0.5
+2015-04-01,East Midlands,63.7,0.5
+2015-05-01,East Midlands,64.5,0.5
+2015-06-01,East Midlands,65.0,0.5
+2015-07-01,East Midlands,66.0,0.5
+2015-08-01,East Midlands,66.8,0.5
+2015-09-01,East Midlands,66.4,0.5
+2015-10-01,East Midlands,67.0,0.5
+2015-11-01,East Midlands,67.3,0.5
+2015-12-01,East Midlands,67.6,0.5
+2016-01-01,East Midlands,67.5,0.5
+2016-02-01,East Midlands,67.3,0.5
+2016-03-01,East Midlands,67.6,0.5
+2016-04-01,East Midlands,68.7,0.5
+2016-05-01,East Midlands,69.1,0.5
+2016-06-01,East Midlands,69.6,0.5
+2016-07-01,East Midlands,70.3,0.5
+2016-08-01,East Midlands,70.6,0.5
+2016-09-01,East Midlands,70.9,0.25
+2016-10-01,East Midlands,70.6,0.25
+2016-11-01,East Midlands,71.1,0.25
+2016-12-01,East Midlands,71.5,0.25
+2017-01-01,East Midlands,70.8,0.25
+2017-02-01,East Midlands,71.7,0.25
+2017-03-01,East Midlands,71.6,0.25
+2017-04-01,East Midlands,72.8,0.25
+2017-05-01,East Midlands,73.2,0.25
+2017-06-01,East Midlands,73.7,0.25
+2017-07-01,East Midlands,75.0,0.25
+2017-08-01,East Midlands,74.8,0.25
+2017-09-01,East Midlands,75.2,0.25
+2017-10-01,East Midlands,75.3,0.25
+2017-11-01,East Midlands,75.3,0.25
+2017-12-01,East Midlands,75.7,0.5
+2018-01-01,East Midlands,75.5,0.5
+2018-02-01,East Midlands,76.6,0.5
+2018-03-01,East Midlands,75.6,0.5
+2018-04-01,East Midlands,76.6,0.5
+2018-05-01,East Midlands,77.3,0.5
+2018-06-01,East Midlands,77.4,0.5
+2018-07-01,East Midlands,78.3,0.5
+2018-08-01,East Midlands,78.8,0.5
+2018-09-01,East Midlands,79.4,0.75
+2018-10-01,East Midlands,78.4,0.75
+2018-11-01,East Midlands,79.0,0.75
+2018-12-01,East Midlands,78.4,0.75
+2019-01-01,East Midlands,78.3,0.75
+2019-02-01,East Midlands,78.2,0.75
+2019-03-01,East Midlands,78.0,0.75
+2019-04-01,East Midlands,78.4,0.75
+2019-05-01,East Midlands,78.5,0.75
+2019-06-01,East Midlands,78.6,0.75
+2019-07-01,East Midlands,79.2,0.75
+2019-08-01,East Midlands,79.9,0.75
+2019-09-01,East Midlands,79.7,0.75
+2019-10-01,East Midlands,79.7,0.75
+2019-11-01,East Midlands,79.7,0.75
+2019-12-01,East Midlands,79.6,0.75
+2020-01-01,East Midlands,79.8,0.75
+2020-02-01,East Midlands,79.2,0.75
+2020-03-01,East Midlands,80.1,0.75
+2020-04-01,East Midlands,79.9,0.1
+2020-05-01,East Midlands,79.6,0.1
+2020-06-01,East Midlands,81.2,0.1
+2020-07-01,East Midlands,82.0,0.1
+2020-08-01,East Midlands,82.2,0.1
+2020-09-01,East Midlands,82.5,0.1
+2020-10-01,East Midlands,83.7,0.1
+2020-11-01,East Midlands,84.7,0.1
+2020-12-01,East Midlands,85.8,0.1
+2021-01-01,East Midlands,85.9,0.1
+2021-02-01,East Midlands,86.9,0.1
+2021-03-01,East Midlands,87.4,0.1
+2021-04-01,East Midlands,86.1,0.1
+2021-05-01,East Midlands,86.5,0.1
+2021-06-01,East Midlands,91.5,0.1
+2021-07-01,East Midlands,86.2,0.1
+2021-08-01,East Midlands,89.0,0.1
+2021-09-01,East Midlands,92.4,0.1
+2021-10-01,East Midlands,90.4,0.1
+2021-11-01,East Midlands,91.8,0.1
+2021-12-01,East Midlands,92.8,0.1
+2022-01-01,East Midlands,93.5,0.25
+2022-02-01,East Midlands,93.9,0.25
+2022-03-01,East Midlands,94.7,0.5
+2022-04-01,East Midlands,95.5,0.75
+2022-05-01,East Midlands,96.4,0.75
+2022-06-01,East Midlands,98.2,1.0
+2022-07-01,East Midlands,99.2,1.25
+2022-08-01,East Midlands,100.8,1.25
+2022-09-01,East Midlands,100.7,1.75
+2022-10-01,East Midlands,100.8,2.25
+2022-11-01,East Midlands,101.0,2.25
+2022-12-01,East Midlands,101.1,3.0
+2023-01-01,East Midlands,100.0,3.5
+2023-02-01,East Midlands,98.8,3.5
+2023-03-01,East Midlands,97.7,4.0
+2023-04-01,East Midlands,98.2,4.25
+2023-05-01,East Midlands,97.6,4.25
+2023-06-01,East Midlands,98.9,4.5
+2023-07-01,East Midlands,99.4,5.0
+2023-08-01,East Midlands,100.3,5.0
+2023-09-01,East Midlands,99.2,5.25
+2023-10-01,East Midlands,98.7,5.25
+2023-11-01,East Midlands,99.0,5.25
+2023-12-01,East Midlands,97.6,5.25
+2024-01-01,East Midlands,96.5,5.25
+2024-02-01,East Midlands,96.7,5.25
+2024-03-01,East Midlands,96.8,5.25
+2024-04-01,East Midlands,96.9,5.25
+2024-05-01,East Midlands,98.0,5.25
+2024-06-01,East Midlands,97.2,5.25
+2024-07-01,East Midlands,99.2,5.25
+2024-08-01,East Midlands,99.6,5.0
+2024-09-01,East Midlands,99.8,5.0
+2024-10-01,East Midlands,100.3,5.0
+2024-11-01,East Midlands,100.3,5.0
+2024-12-01,East Midlands,101.3,4.75
+2025-01-01,East Midlands,100.6,4.75
+2025-02-01,East Midlands,101.3,4.75
+2025-03-01,East Midlands,102.9,4.5
+2025-04-01,East Midlands,99.2,4.5
+2025-05-01,East Midlands,100.8,4.5
+2025-06-01,East Midlands,101.7,4.25
+2025-07-01,East Midlands,102.5,4.25
+2025-08-01,East Midlands,103.6,4.25
+2025-09-01,East Midlands,102.7,4.0
+2025-10-01,East Midlands,102.6,4.0
+2011-01-01,West Midlands,59.0,0.5
+2011-02-01,West Midlands,58.1,0.5
+2011-03-01,West Midlands,57.6,0.5
+2011-04-01,West Midlands,58.6,0.5
+2011-05-01,West Midlands,58.6,0.5
+2011-06-01,West Midlands,58.7,0.5
+2011-07-01,West Midlands,58.8,0.5
+2011-08-01,West Midlands,58.8,0.5
+2011-09-01,West Midlands,59.4,0.5
+2011-10-01,West Midlands,58.3,0.5
+2011-11-01,West Midlands,58.7,0.5
+2011-12-01,West Midlands,57.8,0.5
+2012-01-01,West Midlands,58.4,0.5
+2012-02-01,West Midlands,57.8,0.5
+2012-03-01,West Midlands,58.3,0.5
+2012-04-01,West Midlands,58.2,0.5
+2012-05-01,West Midlands,58.0,0.5
+2012-06-01,West Midlands,59.4,0.5
+2012-07-01,West Midlands,59.3,0.5
+2012-08-01,West Midlands,59.3,0.5
+2012-09-01,West Midlands,59.3,0.5
+2012-10-01,West Midlands,58.6,0.5
+2012-11-01,West Midlands,59.2,0.5
+2012-12-01,West Midlands,59.3,0.5
+2013-01-01,West Midlands,58.4,0.5
+2013-02-01,West Midlands,58.5,0.5
+2013-03-01,West Midlands,58.8,0.5
+2013-04-01,West Midlands,58.9,0.5
+2013-05-01,West Midlands,59.3,0.5
+2013-06-01,West Midlands,60.2,0.5
+2013-07-01,West Midlands,60.5,0.5
+2013-08-01,West Midlands,61.0,0.5
+2013-09-01,West Midlands,60.3,0.5
+2013-10-01,West Midlands,60.8,0.5
+2013-11-01,West Midlands,61.0,0.5
+2013-12-01,West Midlands,61.2,0.5
+2014-01-01,West Midlands,61.2,0.5
+2014-02-01,West Midlands,60.9,0.5
+2014-03-01,West Midlands,61.7,0.5
+2014-04-01,West Midlands,62.5,0.5
+2014-05-01,West Midlands,62.7,0.5
+2014-06-01,West Midlands,63.5,0.5
+2014-07-01,West Midlands,63.6,0.5
+2014-08-01,West Midlands,64.6,0.5
+2014-09-01,West Midlands,64.4,0.5
+2014-10-01,West Midlands,64.4,0.5
+2014-11-01,West Midlands,64.3,0.5
+2014-12-01,West Midlands,64.5,0.5
+2015-01-01,West Midlands,63.9,0.5
+2015-02-01,West Midlands,64.6,0.5
+2015-03-01,West Midlands,64.1,0.5
+2015-04-01,West Midlands,65.1,0.5
+2015-05-01,West Midlands,65.5,0.5
+2015-06-01,West Midlands,66.2,0.5
+2015-07-01,West Midlands,66.8,0.5
+2015-08-01,West Midlands,67.6,0.5
+2015-09-01,West Midlands,67.4,0.5
+2015-10-01,West Midlands,67.4,0.5
+2015-11-01,West Midlands,68.0,0.5
+2015-12-01,West Midlands,68.1,0.5
+2016-01-01,West Midlands,68.3,0.5
+2016-02-01,West Midlands,67.9,0.5
+2016-03-01,West Midlands,68.1,0.5
+2016-04-01,West Midlands,69.6,0.5
+2016-05-01,West Midlands,70.3,0.5
+2016-06-01,West Midlands,71.1,0.5
+2016-07-01,West Midlands,71.2,0.5
+2016-08-01,West Midlands,72.0,0.5
+2016-09-01,West Midlands,72.0,0.25
+2016-10-01,West Midlands,71.3,0.25
+2016-11-01,West Midlands,72.1,0.25
+2016-12-01,West Midlands,72.3,0.25
+2017-01-01,West Midlands,71.8,0.25
+2017-02-01,West Midlands,72.3,0.25
+2017-03-01,West Midlands,72.3,0.25
+2017-04-01,West Midlands,73.0,0.25
+2017-05-01,West Midlands,73.7,0.25
+2017-06-01,West Midlands,74.5,0.25
+2017-07-01,West Midlands,75.3,0.25
+2017-08-01,West Midlands,76.2,0.25
+2017-09-01,West Midlands,75.8,0.25
+2017-10-01,West Midlands,76.0,0.25
+2017-11-01,West Midlands,75.9,0.25
+2017-12-01,West Midlands,76.7,0.5
+2018-01-01,West Midlands,75.6,0.5
+2018-02-01,West Midlands,76.7,0.5
+2018-03-01,West Midlands,76.5,0.5
+2018-04-01,West Midlands,77.0,0.5
+2018-05-01,West Midlands,77.0,0.5
+2018-06-01,West Midlands,78.0,0.5
+2018-07-01,West Midlands,79.0,0.5
+2018-08-01,West Midlands,79.2,0.5
+2018-09-01,West Midlands,79.7,0.75
+2018-10-01,West Midlands,79.7,0.75
+2018-11-01,West Midlands,79.1,0.75
+2018-12-01,West Midlands,79.9,0.75
+2019-01-01,West Midlands,78.7,0.75
+2019-02-01,West Midlands,79.4,0.75
+2019-03-01,West Midlands,78.5,0.75
+2019-04-01,West Midlands,78.7,0.75
+2019-05-01,West Midlands,79.3,0.75
+2019-06-01,West Midlands,79.2,0.75
+2019-07-01,West Midlands,79.6,0.75
+2019-08-01,West Midlands,80.6,0.75
+2019-09-01,West Midlands,80.7,0.75
+2019-10-01,West Midlands,80.5,0.75
+2019-11-01,West Midlands,80.5,0.75
+2019-12-01,West Midlands,79.8,0.75
+2020-01-01,West Midlands,80.9,0.75
+2020-02-01,West Midlands,80.1,0.75
+2020-03-01,West Midlands,80.3,0.75
+2020-04-01,West Midlands,78.5,0.1
+2020-05-01,West Midlands,80.6,0.1
+2020-06-01,West Midlands,81.0,0.1
+2020-07-01,West Midlands,81.9,0.1
+2020-08-01,West Midlands,82.9,0.1
+2020-09-01,West Midlands,83.4,0.1
+2020-10-01,West Midlands,84.0,0.1
+2020-11-01,West Midlands,84.7,0.1
+2020-12-01,West Midlands,86.0,0.1
+2021-01-01,West Midlands,85.9,0.1
+2021-02-01,West Midlands,87.0,0.1
+2021-03-01,West Midlands,87.8,0.1
+2021-04-01,West Midlands,86.5,0.1
+2021-05-01,West Midlands,87.2,0.1
+2021-06-01,West Midlands,92.8,0.1
+2021-07-01,West Midlands,87.4,0.1
+2021-08-01,West Midlands,89.6,0.1
+2021-09-01,West Midlands,92.3,0.1
+2021-10-01,West Midlands,89.2,0.1
+2021-11-01,West Midlands,91.5,0.1
+2021-12-01,West Midlands,92.9,0.1
+2022-01-01,West Midlands,92.9,0.25
+2022-02-01,West Midlands,94.0,0.25
+2022-03-01,West Midlands,94.8,0.5
+2022-04-01,West Midlands,95.2,0.75
+2022-05-01,West Midlands,96.5,0.75
+2022-06-01,West Midlands,97.1,1.0
+2022-07-01,West Midlands,99.9,1.25
+2022-08-01,West Midlands,100.3,1.25
+2022-09-01,West Midlands,100.9,1.75
+2022-10-01,West Midlands,101.6,2.25
+2022-11-01,West Midlands,100.7,2.25
+2022-12-01,West Midlands,100.7,3.0
+2023-01-01,West Midlands,100.0,3.5
+2023-02-01,West Midlands,100.3,3.5
+2023-03-01,West Midlands,97.0,4.0
+2023-04-01,West Midlands,97.4,4.25
+2023-05-01,West Midlands,98.3,4.25
+2023-06-01,West Midlands,98.9,4.5
+2023-07-01,West Midlands,99.9,5.0
+2023-08-01,West Midlands,100.1,5.0
+2023-09-01,West Midlands,100.5,5.25
+2023-10-01,West Midlands,99.5,5.25
+2023-11-01,West Midlands,99.0,5.25
+2023-12-01,West Midlands,98.5,5.25
+2024-01-01,West Midlands,97.6,5.25
+2024-02-01,West Midlands,97.8,5.25
+2024-03-01,West Midlands,97.5,5.25
+2024-04-01,West Midlands,98.2,5.25
+2024-05-01,West Midlands,99.2,5.25
+2024-06-01,West Midlands,100.3,5.25
+2024-07-01,West Midlands,100.8,5.25
+2024-08-01,West Midlands,101.3,5.0
+2024-09-01,West Midlands,102.0,5.0
+2024-10-01,West Midlands,101.4,5.0
+2024-11-01,West Midlands,102.3,5.0
+2024-12-01,West Midlands,101.5,4.75
+2025-01-01,West Midlands,101.8,4.75
+2025-02-01,West Midlands,103.3,4.75
+2025-03-01,West Midlands,104.4,4.5
+2025-04-01,West Midlands,100.1,4.5
+2025-05-01,West Midlands,102.1,4.5
+2025-06-01,West Midlands,103.9,4.25
+2025-07-01,West Midlands,104.2,4.25
+2025-08-01,West Midlands,104.7,4.25
+2025-09-01,West Midlands,104.1,4.0
+2025-10-01,West Midlands,104.2,4.0
+2011-01-01,East,55.0,0.5
+2011-02-01,East,54.4,0.5
+2011-03-01,East,54.8,0.5
+2011-04-01,East,55.0,0.5
+2011-05-01,East,55.1,0.5
+2011-06-01,East,54.9,0.5
+2011-07-01,East,55.7,0.5
+2011-08-01,East,55.9,0.5
+2011-09-01,East,55.4,0.5
+2011-10-01,East,55.4,0.5
+2011-11-01,East,55.7,0.5
+2011-12-01,East,55.4,0.5
+2012-01-01,East,55.7,0.5
+2012-02-01,East,55.3,0.5
+2012-03-01,East,54.9,0.5
+2012-04-01,East,56.0,0.5
+2012-05-01,East,56.3,0.5
+2012-06-01,East,56.2,0.5
+2012-07-01,East,57.0,0.5
+2012-08-01,East,57.0,0.5
+2012-09-01,East,56.6,0.5
+2012-10-01,East,56.8,0.5
+2012-11-01,East,56.6,0.5
+2012-12-01,East,56.4,0.5
+2013-01-01,East,56.4,0.5
+2013-02-01,East,55.9,0.5
+2013-03-01,East,57.0,0.5
+2013-04-01,East,57.1,0.5
+2013-05-01,East,56.9,0.5
+2013-06-01,East,57.5,0.5
+2013-07-01,East,58.5,0.5
+2013-08-01,East,58.7,0.5
+2013-09-01,East,58.7,0.5
+2013-10-01,East,59.2,0.5
+2013-11-01,East,58.8,0.5
+2013-12-01,East,60.2,0.5
+2014-01-01,East,59.8,0.5
+2014-02-01,East,60.2,0.5
+2014-03-01,East,60.5,0.5
+2014-04-01,East,61.7,0.5
+2014-05-01,East,62.8,0.5
+2014-06-01,East,63.3,0.5
+2014-07-01,East,64.4,0.5
+2014-08-01,East,65.1,0.5
+2014-09-01,East,65.7,0.5
+2014-10-01,East,66.0,0.5
+2014-11-01,East,65.7,0.5
+2014-12-01,East,66.0,0.5
+2015-01-01,East,66.3,0.5
+2015-02-01,East,66.6,0.5
+2015-03-01,East,66.7,0.5
+2015-04-01,East,67.4,0.5
+2015-05-01,East,68.3,0.5
+2015-06-01,East,68.6,0.5
+2015-07-01,East,70.2,0.5
+2015-08-01,East,71.0,0.5
+2015-09-01,East,71.8,0.5
+2015-10-01,East,72.2,0.5
+2015-11-01,East,73.1,0.5
+2015-12-01,East,73.5,0.5
+2016-01-01,East,74.1,0.5
+2016-02-01,East,74.2,0.5
+2016-03-01,East,75.4,0.5
+2016-04-01,East,75.4,0.5
+2016-05-01,East,76.8,0.5
+2016-06-01,East,77.6,0.5
+2016-07-01,East,78.6,0.5
+2016-08-01,East,78.8,0.5
+2016-09-01,East,79.3,0.25
+2016-10-01,East,79.2,0.25
+2016-11-01,East,79.4,0.25
+2016-12-01,East,80.1,0.25
+2017-01-01,East,79.9,0.25
+2017-02-01,East,80.5,0.25
+2017-03-01,East,80.0,0.25
+2017-04-01,East,81.2,0.25
+2017-05-01,East,81.9,0.25
+2017-06-01,East,82.3,0.25
+2017-07-01,East,83.6,0.25
+2017-08-01,East,83.5,0.25
+2017-09-01,East,83.7,0.25
+2017-10-01,East,83.8,0.25
+2017-11-01,East,83.4,0.25
+2017-12-01,East,83.9,0.5
+2018-01-01,East,83.9,0.5
+2018-02-01,East,83.7,0.5
+2018-03-01,East,83.2,0.5
+2018-04-01,East,83.5,0.5
+2018-05-01,East,83.7,0.5
+2018-06-01,East,84.1,0.5
+2018-07-01,East,85.4,0.5
+2018-08-01,East,85.4,0.5
+2018-09-01,East,85.0,0.75
+2018-10-01,East,85.1,0.75
+2018-11-01,East,85.2,0.75
+2018-12-01,East,84.5,0.75
+2019-01-01,East,83.8,0.75
+2019-02-01,East,84.2,0.75
+2019-03-01,East,83.3,0.75
+2019-04-01,East,83.6,0.75
+2019-05-01,East,83.9,0.75
+2019-06-01,East,83.7,0.75
+2019-07-01,East,84.6,0.75
+2019-08-01,East,84.4,0.75
+2019-09-01,East,84.8,0.75
+2019-10-01,East,84.5,0.75
+2019-11-01,East,83.9,0.75
+2019-12-01,East,84.4,0.75
+2020-01-01,East,83.9,0.75
+2020-02-01,East,83.9,0.75
+2020-03-01,East,83.7,0.75
+2020-04-01,East,84.4,0.1
+2020-05-01,East,84.3,0.1
+2020-06-01,East,84.7,0.1
+2020-07-01,East,84.9,0.1
+2020-08-01,East,86.0,0.1
+2020-09-01,East,87.1,0.1
+2020-10-01,East,86.8,0.1
+2020-11-01,East,87.1,0.1
+2020-12-01,East,88.3,0.1
+2021-01-01,East,87.5,0.1
+2021-02-01,East,87.9,0.1
+2021-03-01,East,88.5,0.1
+2021-04-01,East,87.7,0.1
+2021-05-01,East,87.8,0.1
+2021-06-01,East,91.8,0.1
+2021-07-01,East,87.9,0.1
+2021-08-01,East,91.0,0.1
+2021-09-01,East,93.0,0.1
+2021-10-01,East,91.7,0.1
+2021-11-01,East,93.7,0.1
+2021-12-01,East,93.9,0.1
+2022-01-01,East,94.7,0.25
+2022-02-01,East,95.7,0.25
+2022-03-01,East,95.5,0.5
+2022-04-01,East,96.5,0.75
+2022-05-01,East,97.6,0.75
+2022-06-01,East,98.4,1.0
+2022-07-01,East,100.0,1.25
+2022-08-01,East,101.0,1.25
+2022-09-01,East,101.2,1.75
+2022-10-01,East,101.0,2.25
+2022-11-01,East,101.4,2.25
+2022-12-01,East,100.5,3.0
+2023-01-01,East,100.0,3.5
+2023-02-01,East,100.1,3.5
+2023-03-01,East,98.5,4.0
+2023-04-01,East,97.3,4.25
+2023-05-01,East,97.0,4.25
+2023-06-01,East,97.5,4.5
+2023-07-01,East,98.8,5.0
+2023-08-01,East,98.6,5.0
+2023-09-01,East,98.3,5.25
+2023-10-01,East,97.4,5.25
+2023-11-01,East,96.7,5.25
+2023-12-01,East,95.7,5.25
+2024-01-01,East,96.5,5.25
+2024-02-01,East,95.4,5.25
+2024-03-01,East,94.8,5.25
+2024-04-01,East,95.6,5.25
+2024-05-01,East,95.8,5.25
+2024-06-01,East,95.6,5.25
+2024-07-01,East,97.0,5.25
+2024-08-01,East,97.6,5.0
+2024-09-01,East,98.0,5.0
+2024-10-01,East,98.0,5.0
+2024-11-01,East,97.5,5.0
+2024-12-01,East,97.8,4.75
+2025-01-01,East,97.8,4.75
+2025-02-01,East,97.9,4.75
+2025-03-01,East,99.7,4.5
+2025-04-01,East,96.1,4.5
+2025-05-01,East,97.9,4.5
+2025-06-01,East,99.0,4.25
+2025-07-01,East,99.4,4.25
+2025-08-01,East,100.4,4.25
+2025-09-01,East,99.6,4.0
+2025-10-01,East,99.8,4.0
+2011-01-01,London,54.0,0.5
+2011-02-01,London,53.5,0.5
+2011-03-01,London,53.8,0.5
+2011-04-01,London,55.1,0.5
+2011-05-01,London,53.4,0.5
+2011-06-01,London,53.6,0.5
+2011-07-01,London,55.5,0.5
+2011-08-01,London,55.3,0.5
+2011-09-01,London,55.4,0.5
+2011-10-01,London,54.8,0.5
+2011-11-01,London,54.6,0.5
+2011-12-01,London,54.8,0.5
+2012-01-01,London,55.2,0.5
+2012-02-01,London,54.8,0.5
+2012-03-01,London,54.5,0.5
+2012-04-01,London,56.1,0.5
+2012-05-01,London,57.0,0.5
+2012-06-01,London,57.5,0.5
+2012-07-01,London,57.9,0.5
+2012-08-01,London,58.1,0.5
+2012-09-01,London,57.8,0.5
+2012-10-01,London,58.2,0.5
+2012-11-01,London,57.9,0.5
+2012-12-01,London,58.8,0.5
+2013-01-01,London,58.4,0.5
+2013-02-01,London,58.8,0.5
+2013-03-01,London,58.6,0.5
+2013-04-01,London,60.2,0.5
+2013-05-01,London,60.4,0.5
+2013-06-01,London,60.9,0.5
+2013-07-01,London,62.4,0.5
+2013-08-01,London,63.0,0.5
+2013-09-01,London,63.9,0.5
+2013-10-01,London,63.8,0.5
+2013-11-01,London,64.5,0.5
+2013-12-01,London,66.0,0.5
+2014-01-01,London,66.7,0.5
+2014-02-01,London,67.1,0.5
+2014-03-01,London,67.8,0.5
+2014-04-01,London,70.4,0.5
+2014-05-01,London,71.8,0.5
+2014-06-01,London,72.6,0.5
+2014-07-01,London,74.8,0.5
+2014-08-01,London,75.9,0.5
+2014-09-01,London,75.7,0.5
+2014-10-01,London,75.4,0.5
+2014-11-01,London,75.2,0.5
+2014-12-01,London,75.6,0.5
+2015-01-01,London,75.5,0.5
+2015-02-01,London,75.9,0.5
+2015-03-01,London,75.9,0.5
+2015-04-01,London,77.0,0.5
+2015-05-01,London,78.0,0.5
+2015-06-01,London,78.7,0.5
+2015-07-01,London,80.9,0.5
+2015-08-01,London,81.8,0.5
+2015-09-01,London,82.5,0.5
+2015-10-01,London,82.6,0.5
+2015-11-01,London,83.5,0.5
+2015-12-01,London,84.4,0.5
+2016-01-01,London,85.8,0.5
+2016-02-01,London,85.8,0.5
+2016-03-01,London,87.1,0.5
+2016-04-01,London,86.5,0.5
+2016-05-01,London,87.7,0.5
+2016-06-01,London,87.8,0.5
+2016-07-01,London,89.2,0.5
+2016-08-01,London,88.5,0.5
+2016-09-01,London,88.5,0.25
+2016-10-01,London,88.3,0.25
+2016-11-01,London,88.3,0.25
+2016-12-01,London,88.6,0.25
+2017-01-01,London,89.2,0.25
+2017-02-01,London,89.4,0.25
+2017-03-01,London,89.2,0.25
+2017-04-01,London,90.0,0.25
+2017-05-01,London,90.2,0.25
+2017-06-01,London,90.0,0.25
+2017-07-01,London,91.6,0.25
+2017-08-01,London,91.3,0.25
+2017-09-01,London,90.7,0.25
+2017-10-01,London,90.3,0.25
+2017-11-01,London,89.3,0.25
+2017-12-01,London,89.4,0.5
+2018-01-01,London,90.0,0.5
+2018-02-01,London,89.6,0.5
+2018-03-01,London,88.6,0.5
+2018-04-01,London,89.5,0.5
+2018-05-01,London,89.7,0.5
+2018-06-01,London,90.0,0.5
+2018-07-01,London,90.9,0.5
+2018-08-01,London,89.9,0.5
+2018-09-01,London,89.4,0.75
+2018-10-01,London,90.0,0.75
+2018-11-01,London,89.0,0.75
+2018-12-01,London,88.7,0.75
+2019-01-01,London,88.2,0.75
+2019-02-01,London,87.4,0.75
+2019-03-01,London,87.0,0.75
+2019-04-01,London,88.1,0.75
+2019-05-01,London,86.9,0.75
+2019-06-01,London,88.2,0.75
+2019-07-01,London,89.7,0.75
+2019-08-01,London,88.7,0.75
+2019-09-01,London,89.5,0.75
+2019-10-01,London,88.6,0.75
+2019-11-01,London,87.9,0.75
+2019-12-01,London,89.9,0.75
+2020-01-01,London,89.3,0.75
+2020-02-01,London,89.0,0.75
+2020-03-01,London,90.5,0.75
+2020-04-01,London,89.3,0.1
+2020-05-01,London,88.7,0.1
+2020-06-01,London,90.0,0.1
+2020-07-01,London,90.7,0.1
+2020-08-01,London,91.8,0.1
+2020-09-01,London,92.5,0.1
+2020-10-01,London,91.2,0.1
+2020-11-01,London,92.7,0.1
+2020-12-01,London,92.7,0.1
+2021-01-01,London,92.7,0.1
+2021-02-01,London,92.0,0.1
+2021-03-01,London,93.6,0.1
+2021-04-01,London,91.7,0.1
+2021-05-01,London,91.6,0.1
+2021-06-01,London,94.3,0.1
+2021-07-01,London,92.8,0.1
+2021-08-01,London,95.6,0.1
+2021-09-01,London,94.9,0.1
+2021-10-01,London,94.5,0.1
+2021-11-01,London,95.9,0.1
+2021-12-01,London,96.0,0.1
+2022-01-01,London,96.5,0.25
+2022-02-01,London,96.5,0.25
+2022-03-01,London,96.4,0.5
+2022-04-01,London,97.2,0.75
+2022-05-01,London,97.1,0.75
+2022-06-01,London,100.3,1.0
+2022-07-01,London,100.8,1.25
+2022-08-01,London,101.8,1.25
+2022-09-01,London,101.5,1.75
+2022-10-01,London,100.5,2.25
+2022-11-01,London,100.8,2.25
+2022-12-01,London,100.3,3.0
+2023-01-01,London,100.0,3.5
+2023-02-01,London,98.8,3.5
+2023-03-01,London,97.3,4.0
+2023-04-01,London,97.6,4.25
+2023-05-01,London,97.2,4.25
+2023-06-01,London,97.4,4.5
+2023-07-01,London,98.0,5.0
+2023-08-01,London,98.2,5.0
+2023-09-01,London,99.1,5.25
+2023-10-01,London,97.2,5.25
+2023-11-01,London,96.0,5.25
+2023-12-01,London,96.2,5.25
+2024-01-01,London,96.5,5.25
+2024-02-01,London,95.7,5.25
+2024-03-01,London,95.9,5.25
+2024-04-01,London,96.1,5.25
+2024-05-01,London,97.0,5.25
+2024-06-01,London,97.5,5.25
+2024-07-01,London,97.7,5.25
+2024-08-01,London,99.3,5.0
+2024-09-01,London,99.3,5.0
+2024-10-01,London,98.3,5.0
+2024-11-01,London,97.9,5.0
+2024-12-01,London,97.7,4.75
+2025-01-01,London,98.8,4.75
+2025-02-01,London,98.3,4.75
+2025-03-01,London,97.3,4.5
+2025-04-01,London,99.4,4.5
+2025-05-01,London,98.3,4.5
+2025-06-01,London,98.9,4.25
+2025-07-01,London,99.0,4.25
+2025-08-01,London,98.3,4.25
+2025-09-01,London,97.7,4.0
+2025-10-01,London,95.9,4.0
+2011-01-01,South East,56.3,0.5
+2011-02-01,South East,56.4,0.5
+2011-03-01,South East,56.1,0.5
+2011-04-01,South East,56.7,0.5
+2011-05-01,South East,56.8,0.5
+2011-06-01,South East,57.0,0.5
+2011-07-01,South East,57.7,0.5
+2011-08-01,South East,57.3,0.5
+2011-09-01,South East,57.5,0.5
+2011-10-01,South East,56.7,0.5
+2011-11-01,South East,57.1,0.5
+2011-12-01,South East,57.0,0.5
+2012-01-01,South East,56.6,0.5
+2012-02-01,South East,56.8,0.5
+2012-03-01,South East,56.9,0.5
+2012-04-01,South East,58.0,0.5
+2012-05-01,South East,58.1,0.5
+2012-06-01,South East,58.3,0.5
+2012-07-01,South East,58.9,0.5
+2012-08-01,South East,59.2,0.5
+2012-09-01,South East,59.4,0.5
+2012-10-01,South East,58.4,0.5
+2012-11-01,South East,58.4,0.5
+2012-12-01,South East,58.7,0.5
+2013-01-01,South East,58.5,0.5
+2013-02-01,South East,58.2,0.5
+2013-03-01,South East,58.5,0.5
+2013-04-01,South East,59.2,0.5
+2013-05-01,South East,59.3,0.5
+2013-06-01,South East,60.0,0.5
+2013-07-01,South East,60.7,0.5
+2013-08-01,South East,60.9,0.5
+2013-09-01,South East,61.1,0.5
+2013-10-01,South East,61.1,0.5
+2013-11-01,South East,61.6,0.5
+2013-12-01,South East,62.1,0.5
+2014-01-01,South East,62.6,0.5
+2014-02-01,South East,62.7,0.5
+2014-03-01,South East,63.2,0.5
+2014-04-01,South East,64.2,0.5
+2014-05-01,South East,65.3,0.5
+2014-06-01,South East,65.9,0.5
+2014-07-01,South East,67.0,0.5
+2014-08-01,South East,67.9,0.5
+2014-09-01,South East,68.4,0.5
+2014-10-01,South East,68.5,0.5
+2014-11-01,South East,68.3,0.5
+2014-12-01,South East,68.7,0.5
+2015-01-01,South East,68.8,0.5
+2015-02-01,South East,68.8,0.5
+2015-03-01,South East,68.9,0.5
+2015-04-01,South East,69.8,0.5
+2015-05-01,South East,70.5,0.5
+2015-06-01,South East,71.5,0.5
+2015-07-01,South East,72.7,0.5
+2015-08-01,South East,73.6,0.5
+2015-09-01,South East,73.9,0.5
+2015-10-01,South East,74.4,0.5
+2015-11-01,South East,75.0,0.5
+2015-12-01,South East,75.7,0.5
+2016-01-01,South East,76.3,0.5
+2016-02-01,South East,76.8,0.5
+2016-03-01,South East,78.0,0.5
+2016-04-01,South East,77.4,0.5
+2016-05-01,South East,78.3,0.5
+2016-06-01,South East,79.3,0.5
+2016-07-01,South East,80.3,0.5
+2016-08-01,South East,80.6,0.5
+2016-09-01,South East,79.9,0.25
+2016-10-01,South East,80.0,0.25
+2016-11-01,South East,80.0,0.25
+2016-12-01,South East,80.3,0.25
+2017-01-01,South East,81.3,0.25
+2017-02-01,South East,80.6,0.25
+2017-03-01,South East,80.7,0.25
+2017-04-01,South East,81.5,0.25
+2017-05-01,South East,81.9,0.25
+2017-06-01,South East,82.7,0.25
+2017-07-01,South East,83.4,0.25
+2017-08-01,South East,84.0,0.25
+2017-09-01,South East,83.8,0.25
+2017-10-01,South East,83.7,0.25
+2017-11-01,South East,83.2,0.25
+2017-12-01,South East,83.3,0.5
+2018-01-01,South East,83.4,0.5
+2018-02-01,South East,83.5,0.5
+2018-03-01,South East,83.1,0.5
+2018-04-01,South East,83.5,0.5
+2018-05-01,South East,83.6,0.5
+2018-06-01,South East,84.4,0.5
+2018-07-01,South East,85.0,0.5
+2018-08-01,South East,85.2,0.5
+2018-09-01,South East,85.0,0.75
+2018-10-01,South East,84.3,0.75
+2018-11-01,South East,84.0,0.75
+2018-12-01,South East,83.4,0.75
+2019-01-01,South East,83.7,0.75
+2019-02-01,South East,83.2,0.75
+2019-03-01,South East,82.4,0.75
+2019-04-01,South East,82.9,0.75
+2019-05-01,South East,82.7,0.75
+2019-06-01,South East,83.4,0.75
+2019-07-01,South East,83.8,0.75
+2019-08-01,South East,83.9,0.75
+2019-09-01,South East,84.1,0.75
+2019-10-01,South East,83.7,0.75
+2019-11-01,South East,83.7,0.75
+2019-12-01,South East,83.5,0.75
+2020-01-01,South East,83.6,0.75
+2020-02-01,South East,82.7,0.75
+2020-03-01,South East,84.0,0.75
+2020-04-01,South East,84.5,0.1
+2020-05-01,South East,83.4,0.1
+2020-06-01,South East,83.7,0.1
+2020-07-01,South East,84.6,0.1
+2020-08-01,South East,85.6,0.1
+2020-09-01,South East,86.3,0.1
+2020-10-01,South East,86.4,0.1
+2020-11-01,South East,87.5,0.1
+2020-12-01,South East,87.8,0.1
+2021-01-01,South East,87.1,0.1
+2021-02-01,South East,87.1,0.1
+2021-03-01,South East,88.3,0.1
+2021-04-01,South East,87.5,0.1
+2021-05-01,South East,87.8,0.1
+2021-06-01,South East,91.5,0.1
+2021-07-01,South East,87.6,0.1
+2021-08-01,South East,90.5,0.1
+2021-09-01,South East,93.3,0.1
+2021-10-01,South East,91.3,0.1
+2021-11-01,South East,92.9,0.1
+2021-12-01,South East,93.5,0.1
+2022-01-01,South East,95.0,0.25
+2022-02-01,South East,94.8,0.25
+2022-03-01,South East,95.4,0.5
+2022-04-01,South East,95.6,0.75
+2022-05-01,South East,97.0,0.75
+2022-06-01,South East,98.2,1.0
+2022-07-01,South East,99.8,1.25
+2022-08-01,South East,100.8,1.25
+2022-09-01,South East,101.0,1.75
+2022-10-01,South East,101.1,2.25
+2022-11-01,South East,100.6,2.25
+2022-12-01,South East,100.1,3.0
+2023-01-01,South East,100.0,3.5
+2023-02-01,South East,98.9,3.5
+2023-03-01,South East,98.1,4.0
+2023-04-01,South East,97.9,4.25
+2023-05-01,South East,97.5,4.25
+2023-06-01,South East,97.5,4.5
+2023-07-01,South East,98.5,5.0
+2023-08-01,South East,98.4,5.0
+2023-09-01,South East,97.8,5.25
+2023-10-01,South East,97.5,5.25
+2023-11-01,South East,96.8,5.25
+2023-12-01,South East,94.8,5.25
+2024-01-01,South East,95.3,5.25
+2024-02-01,South East,94.9,5.25
+2024-03-01,South East,94.6,5.25
+2024-04-01,South East,95.2,5.25
+2024-05-01,South East,96.2,5.25
+2024-06-01,South East,96.2,5.25
+2024-07-01,South East,97.3,5.25
+2024-08-01,South East,98.5,5.0
+2024-09-01,South East,98.1,5.0
+2024-10-01,South East,98.3,5.0
+2024-11-01,South East,97.4,5.0
+2024-12-01,South East,97.9,4.75
+2025-01-01,South East,98.6,4.75
+2025-02-01,South East,98.4,4.75
+2025-03-01,South East,99.1,4.5
+2025-04-01,South East,97.6,4.5
+2025-05-01,South East,97.6,4.5
+2025-06-01,South East,98.7,4.25
+2025-07-01,South East,99.0,4.25
+2025-08-01,South East,99.8,4.25
+2025-09-01,South East,98.6,4.0
+2025-10-01,South East,99.0,4.0
+2011-01-01,South West,59.0,0.5
+2011-02-01,South West,58.6,0.5
+2011-03-01,South West,58.6,0.5
+2011-04-01,South West,58.8,0.5
+2011-05-01,South West,58.5,0.5
+2011-06-01,South West,59.2,0.5
+2011-07-01,South West,59.7,0.5
+2011-08-01,South West,59.9,0.5
+2011-09-01,South West,59.2,0.5
+2011-10-01,South West,59.3,0.5
+2011-11-01,South West,59.0,0.5
+2011-12-01,South West,58.5,0.5
+2012-01-01,South West,59.3,0.5
+2012-02-01,South West,59.2,0.5
+2012-03-01,South West,58.7,0.5
+2012-04-01,South West,59.6,0.5
+2012-05-01,South West,59.4,0.5
+2012-06-01,South West,59.9,0.5
+2012-07-01,South West,60.4,0.5
+2012-08-01,South West,60.0,0.5
+2012-09-01,South West,59.8,0.5
+2012-10-01,South West,59.9,0.5
+2012-11-01,South West,59.8,0.5
+2012-12-01,South West,58.7,0.5
+2013-01-01,South West,59.3,0.5
+2013-02-01,South West,59.1,0.5
+2013-03-01,South West,59.5,0.5
+2013-04-01,South West,60.4,0.5
+2013-05-01,South West,60.2,0.5
+2013-06-01,South West,60.3,0.5
+2013-07-01,South West,60.9,0.5
+2013-08-01,South West,61.4,0.5
+2013-09-01,South West,61.8,0.5
+2013-10-01,South West,61.6,0.5
+2013-11-01,South West,61.7,0.5
+2013-12-01,South West,62.0,0.5
+2014-01-01,South West,61.9,0.5
+2014-02-01,South West,62.1,0.5
+2014-03-01,South West,62.6,0.5
+2014-04-01,South West,63.7,0.5
+2014-05-01,South West,63.7,0.5
+2014-06-01,South West,63.9,0.5
+2014-07-01,South West,65.3,0.5
+2014-08-01,South West,66.1,0.5
+2014-09-01,South West,66.6,0.5
+2014-10-01,South West,66.2,0.5
+2014-11-01,South West,65.8,0.5
+2014-12-01,South West,66.1,0.5
+2015-01-01,South West,66.5,0.5
+2015-02-01,South West,65.6,0.5
+2015-03-01,South West,66.2,0.5
+2015-04-01,South West,67.0,0.5
+2015-05-01,South West,67.3,0.5
+2015-06-01,South West,67.9,0.5
+2015-07-01,South West,68.7,0.5
+2015-08-01,South West,69.7,0.5
+2015-09-01,South West,70.1,0.5
+2015-10-01,South West,70.0,0.5
+2015-11-01,South West,70.7,0.5
+2015-12-01,South West,70.8,0.5
+2016-01-01,South West,70.7,0.5
+2016-02-01,South West,71.0,0.5
+2016-03-01,South West,72.9,0.5
+2016-04-01,South West,71.1,0.5
+2016-05-01,South West,72.2,0.5
+2016-06-01,South West,73.0,0.5
+2016-07-01,South West,73.6,0.5
+2016-08-01,South West,73.9,0.5
+2016-09-01,South West,74.0,0.25
+2016-10-01,South West,73.6,0.25
+2016-11-01,South West,74.0,0.25
+2016-12-01,South West,73.8,0.25
+2017-01-01,South West,74.6,0.25
+2017-02-01,South West,74.7,0.25
+2017-03-01,South West,74.4,0.25
+2017-04-01,South West,75.1,0.25
+2017-05-01,South West,75.7,0.25
+2017-06-01,South West,76.5,0.25
+2017-07-01,South West,77.7,0.25
+2017-08-01,South West,78.2,0.25
+2017-09-01,South West,77.9,0.25
+2017-10-01,South West,78.4,0.25
+2017-11-01,South West,77.9,0.25
+2017-12-01,South West,77.8,0.5
+2018-01-01,South West,78.9,0.5
+2018-02-01,South West,78.3,0.5
+2018-03-01,South West,78.3,0.5
+2018-04-01,South West,78.1,0.5
+2018-05-01,South West,78.4,0.5
+2018-06-01,South West,78.9,0.5
+2018-07-01,South West,80.2,0.5
+2018-08-01,South West,80.7,0.5
+2018-09-01,South West,80.8,0.75
+2018-10-01,South West,80.2,0.75
+2018-11-01,South West,80.2,0.75
+2018-12-01,South West,80.1,0.75
+2019-01-01,South West,79.5,0.75
+2019-02-01,South West,79.7,0.75
+2019-03-01,South West,79.0,0.75
+2019-04-01,South West,79.0,0.75
+2019-05-01,South West,78.9,0.75
+2019-06-01,South West,78.9,0.75
+2019-07-01,South West,80.6,0.75
+2019-08-01,South West,80.7,0.75
+2019-09-01,South West,80.8,0.75
+2019-10-01,South West,80.8,0.75
+2019-11-01,South West,80.1,0.75
+2019-12-01,South West,80.0,0.75
+2020-01-01,South West,80.4,0.75
+2020-02-01,South West,80.0,0.75
+2020-03-01,South West,81.0,0.75
+2020-04-01,South West,80.1,0.1
+2020-05-01,South West,80.0,0.1
+2020-06-01,South West,81.0,0.1
+2020-07-01,South West,82.3,0.1
+2020-08-01,South West,82.8,0.1
+2020-09-01,South West,84.2,0.1
+2020-10-01,South West,84.9,0.1
+2020-11-01,South West,85.3,0.1
+2020-12-01,South West,86.3,0.1
+2021-01-01,South West,85.3,0.1
+2021-02-01,South West,85.6,0.1
+2021-03-01,South West,86.9,0.1
+2021-04-01,South West,85.9,0.1
+2021-05-01,South West,85.1,0.1
+2021-06-01,South West,91.2,0.1
+2021-07-01,South West,83.7,0.1
+2021-08-01,South West,88.1,0.1
+2021-09-01,South West,91.9,0.1
+2021-10-01,South West,89.3,0.1
+2021-11-01,South West,91.9,0.1
+2021-12-01,South West,92.3,0.1
+2022-01-01,South West,94.1,0.25
+2022-02-01,South West,94.2,0.25
+2022-03-01,South West,94.4,0.5
+2022-04-01,South West,96.1,0.75
+2022-05-01,South West,97.7,0.75
+2022-06-01,South West,97.0,1.0
+2022-07-01,South West,100.0,1.25
+2022-08-01,South West,101.7,1.25
+2022-09-01,South West,101.7,1.75
+2022-10-01,South West,101.5,2.25
+2022-11-01,South West,101.5,2.25
+2022-12-01,South West,100.0,3.0
+2023-01-01,South West,100.0,3.5
+2023-02-01,South West,99.3,3.5
+2023-03-01,South West,98.1,4.0
+2023-04-01,South West,98.0,4.25
+2023-05-01,South West,97.8,4.25
+2023-06-01,South West,97.3,4.5
+2023-07-01,South West,99.0,5.0
+2023-08-01,South West,99.4,5.0
+2023-09-01,South West,98.6,5.25
+2023-10-01,South West,98.7,5.25
+2023-11-01,South West,97.0,5.25
+2023-12-01,South West,95.3,5.25
+2024-01-01,South West,96.8,5.25
+2024-02-01,South West,96.0,5.25
+2024-03-01,South West,95.5,5.25
+2024-04-01,South West,96.4,5.25
+2024-05-01,South West,96.6,5.25
+2024-06-01,South West,96.2,5.25
+2024-07-01,South West,97.7,5.25
+2024-08-01,South West,98.1,5.0
+2024-09-01,South West,98.4,5.0
+2024-10-01,South West,99.1,5.0
+2024-11-01,South West,97.2,5.0
+2024-12-01,South West,97.3,4.75
+2025-01-01,South West,97.7,4.75
+2025-02-01,South West,98.1,4.75
+2025-03-01,South West,99.2,4.5
+2025-04-01,South West,96.0,4.5
+2025-05-01,South West,97.3,4.5
+2025-06-01,South West,97.8,4.25
+2025-07-01,South West,99.1,4.25
+2025-08-01,South West,99.7,4.25
+2025-09-01,South West,98.4,4.0
+2025-10-01,South West,97.9,4.0
+2011-01-01,Wales,59.9,0.5
+2011-02-01,Wales,60.0,0.5
+2011-03-01,Wales,58.7,0.5
+2011-04-01,Wales,60.6,0.5
+2011-05-01,Wales,60.1,0.5
+2011-06-01,Wales,60.2,0.5
+2011-07-01,Wales,60.3,0.5
+2011-08-01,Wales,60.7,0.5
+2011-09-01,Wales,61.5,0.5
+2011-10-01,Wales,59.9,0.5
+2011-11-01,Wales,61.2,0.5
+2011-12-01,Wales,59.8,0.5
+2012-01-01,Wales,59.6,0.5
+2012-02-01,Wales,59.3,0.5
+2012-03-01,Wales,59.2,0.5
+2012-04-01,Wales,60.1,0.5
+2012-05-01,Wales,60.2,0.5
+2012-06-01,Wales,61.0,0.5
+2012-07-01,Wales,60.7,0.5
+2012-08-01,Wales,60.4,0.5
+2012-09-01,Wales,60.0,0.5
+2012-10-01,Wales,59.5,0.5
+2012-11-01,Wales,60.3,0.5
+2012-12-01,Wales,59.6,0.5
+2013-01-01,Wales,59.8,0.5
+2013-02-01,Wales,59.0,0.5
+2013-03-01,Wales,59.6,0.5
+2013-04-01,Wales,59.4,0.5
+2013-05-01,Wales,60.3,0.5
+2013-06-01,Wales,60.7,0.5
+2013-07-01,Wales,60.3,0.5
+2013-08-01,Wales,61.4,0.5
+2013-09-01,Wales,61.0,0.5
+2013-10-01,Wales,60.1,0.5
+2013-11-01,Wales,61.0,0.5
+2013-12-01,Wales,60.3,0.5
+2014-01-01,Wales,61.7,0.5
+2014-02-01,Wales,62.1,0.5
+2014-03-01,Wales,61.2,0.5
+2014-04-01,Wales,62.2,0.5
+2014-05-01,Wales,63.6,0.5
+2014-06-01,Wales,63.3,0.5
+2014-07-01,Wales,63.6,0.5
+2014-08-01,Wales,64.1,0.5
+2014-09-01,Wales,64.8,0.5
+2014-10-01,Wales,64.1,0.5
+2014-11-01,Wales,64.2,0.5
+2014-12-01,Wales,64.2,0.5
+2015-01-01,Wales,63.9,0.5
+2015-02-01,Wales,63.6,0.5
+2015-03-01,Wales,63.4,0.5
+2015-04-01,Wales,64.3,0.5
+2015-05-01,Wales,64.5,0.5
+2015-06-01,Wales,65.0,0.5
+2015-07-01,Wales,65.3,0.5
+2015-08-01,Wales,66.0,0.5
+2015-09-01,Wales,65.8,0.5
+2015-10-01,Wales,66.1,0.5
+2015-11-01,Wales,66.1,0.5
+2015-12-01,Wales,66.4,0.5
+2016-01-01,Wales,65.7,0.5
+2016-02-01,Wales,66.9,0.5
+2016-03-01,Wales,66.4,0.5
+2016-04-01,Wales,66.6,0.5
+2016-05-01,Wales,67.7,0.5
+2016-06-01,Wales,68.7,0.5
+2016-07-01,Wales,68.7,0.5
+2016-08-01,Wales,68.2,0.5
+2016-09-01,Wales,68.0,0.25
+2016-10-01,Wales,68.8,0.25
+2016-11-01,Wales,68.6,0.25
+2016-12-01,Wales,68.7,0.25
+2017-01-01,Wales,68.7,0.25
+2017-02-01,Wales,68.4,0.25
+2017-03-01,Wales,69.3,0.25
+2017-04-01,Wales,70.3,0.25
+2017-05-01,Wales,69.2,0.25
+2017-06-01,Wales,70.5,0.25
+2017-07-01,Wales,70.8,0.25
+2017-08-01,Wales,71.7,0.25
+2017-09-01,Wales,71.9,0.25
+2017-10-01,Wales,72.7,0.25
+2017-11-01,Wales,71.8,0.25
+2017-12-01,Wales,72.1,0.5
+2018-01-01,Wales,71.8,0.5
+2018-02-01,Wales,71.9,0.5
+2018-03-01,Wales,72.2,0.5
+2018-04-01,Wales,72.0,0.5
+2018-05-01,Wales,72.6,0.5
+2018-06-01,Wales,73.6,0.5
+2018-07-01,Wales,74.4,0.5
+2018-08-01,Wales,75.5,0.5
+2018-09-01,Wales,75.2,0.75
+2018-10-01,Wales,75.5,0.75
+2018-11-01,Wales,75.1,0.75
+2018-12-01,Wales,76.1,0.75
+2019-01-01,Wales,74.4,0.75
+2019-02-01,Wales,74.6,0.75
+2019-03-01,Wales,75.0,0.75
+2019-04-01,Wales,75.7,0.75
+2019-05-01,Wales,75.8,0.75
+2019-06-01,Wales,76.4,0.75
+2019-07-01,Wales,77.1,0.75
+2019-08-01,Wales,78.9,0.75
+2019-09-01,Wales,77.1,0.75
+2019-10-01,Wales,78.0,0.75
+2019-11-01,Wales,79.0,0.75
+2019-12-01,Wales,78.1,0.75
+2020-01-01,Wales,76.6,0.75
+2020-02-01,Wales,77.8,0.75
+2020-03-01,Wales,78.4,0.75
+2020-04-01,Wales,75.1,0.1
+2020-05-01,Wales,76.3,0.1
+2020-06-01,Wales,78.5,0.1
+2020-07-01,Wales,79.0,0.1
+2020-08-01,Wales,81.2,0.1
+2020-09-01,Wales,79.8,0.1
+2020-10-01,Wales,82.5,0.1
+2020-11-01,Wales,83.6,0.1
+2020-12-01,Wales,85.0,0.1
+2021-01-01,Wales,84.1,0.1
+2021-02-01,Wales,83.4,0.1
+2021-03-01,Wales,86.0,0.1
+2021-04-01,Wales,85.0,0.1
+2021-05-01,Wales,86.2,0.1
+2021-06-01,Wales,91.3,0.1
+2021-07-01,Wales,87.3,0.1
+2021-08-01,Wales,89.3,0.1
+2021-09-01,Wales,91.9,0.1
+2021-10-01,Wales,92.6,0.1
+2021-11-01,Wales,92.4,0.1
+2021-12-01,Wales,94.0,0.1
+2022-01-01,Wales,94.9,0.25
+2022-02-01,Wales,94.0,0.25
+2022-03-01,Wales,94.9,0.5
+2022-04-01,Wales,97.0,0.75
+2022-05-01,Wales,97.4,0.75
+2022-06-01,Wales,99.2,1.0
+2022-07-01,Wales,100.7,1.25
+2022-08-01,Wales,101.2,1.25
+2022-09-01,Wales,102.9,1.75
+2022-10-01,Wales,103.1,2.25
+2022-11-01,Wales,102.0,2.25
+2022-12-01,Wales,102.3,3.0
+2023-01-01,Wales,100.0,3.5
+2023-02-01,Wales,99.5,3.5
+2023-03-01,Wales,98.7,4.0
+2023-04-01,Wales,97.0,4.25
+2023-05-01,Wales,98.9,4.25
+2023-06-01,Wales,99.2,4.5
+2023-07-01,Wales,100.4,5.0
+2023-08-01,Wales,101.0,5.0
+2023-09-01,Wales,101.3,5.25
+2023-10-01,Wales,100.3,5.25
+2023-11-01,Wales,100.0,5.25
+2023-12-01,Wales,100.1,5.25
+2024-01-01,Wales,98.0,5.25
+2024-02-01,Wales,98.7,5.25
+2024-03-01,Wales,99.5,5.25
+2024-04-01,Wales,98.9,5.25
+2024-05-01,Wales,98.7,5.25
+2024-06-01,Wales,101.2,5.25
+2024-07-01,Wales,101.6,5.25
+2024-08-01,Wales,102.6,5.0
+2024-09-01,Wales,101.0,5.0
+2024-10-01,Wales,102.8,5.0
+2024-11-01,Wales,102.7,5.0
+2024-12-01,Wales,101.3,4.75
+2025-01-01,Wales,102.3,4.75
+2025-02-01,Wales,102.1,4.75
+2025-03-01,Wales,102.5,4.5
+2025-04-01,Wales,102.9,4.5
+2025-05-01,Wales,103.1,4.5
+2025-06-01,Wales,104.0,4.25
+2025-07-01,Wales,103.8,4.25
+2025-08-01,Wales,104.4,4.25
+2025-09-01,Wales,103.3,4.0
+2025-10-01,Wales,104.4,4.0
+2011-01-01,Scotland,71.3,0.5
+2011-02-01,Scotland,69.2,0.5
+2011-03-01,Scotland,69.3,0.5
+2011-04-01,Scotland,71.4,0.5
+2011-05-01,Scotland,71.4,0.5
+2011-06-01,Scotland,72.1,0.5
+2011-07-01,Scotland,73.3,0.5
+2011-08-01,Scotland,72.8,0.5
+2011-09-01,Scotland,72.5,0.5
+2011-10-01,Scotland,71.0,0.5
+2011-11-01,Scotland,70.5,0.5
+2011-12-01,Scotland,69.2,0.5
+2012-01-01,Scotland,69.1,0.5
+2012-02-01,Scotland,67.0,0.5
+2012-03-01,Scotland,68.9,0.5
+2012-04-01,Scotland,68.8,0.5
+2012-05-01,Scotland,69.5,0.5
+2012-06-01,Scotland,70.5,0.5
+2012-07-01,Scotland,70.1,0.5
+2012-08-01,Scotland,69.7,0.5
+2012-09-01,Scotland,69.2,0.5
+2012-10-01,Scotland,68.5,0.5
+2012-11-01,Scotland,67.7,0.5
+2012-12-01,Scotland,67.1,0.5
+2013-01-01,Scotland,67.4,0.5
+2013-02-01,Scotland,66.1,0.5
+2013-03-01,Scotland,66.7,0.5
+2013-04-01,Scotland,67.8,0.5
+2013-05-01,Scotland,68.9,0.5
+2013-06-01,Scotland,69.9,0.5
+2013-07-01,Scotland,70.6,0.5
+2013-08-01,Scotland,71.3,0.5
+2013-09-01,Scotland,70.2,0.5
+2013-10-01,Scotland,70.0,0.5
+2013-11-01,Scotland,70.7,0.5
+2013-12-01,Scotland,69.8,0.5
+2014-01-01,Scotland,69.8,0.5
+2014-02-01,Scotland,68.7,0.5
+2014-03-01,Scotland,69.6,0.5
+2014-04-01,Scotland,71.2,0.5
+2014-05-01,Scotland,72.4,0.5
+2014-06-01,Scotland,73.3,0.5
+2014-07-01,Scotland,74.3,0.5
+2014-08-01,Scotland,74.5,0.5
+2014-09-01,Scotland,74.1,0.5
+2014-10-01,Scotland,74.2,0.5
+2014-11-01,Scotland,73.3,0.5
+2014-12-01,Scotland,72.9,0.5
+2015-01-01,Scotland,74.2,0.5
+2015-02-01,Scotland,72.9,0.5
+2015-03-01,Scotland,76.8,0.5
+2015-04-01,Scotland,73.7,0.5
+2015-05-01,Scotland,74.6,0.5
+2015-06-01,Scotland,75.3,0.5
+2015-07-01,Scotland,76.4,0.5
+2015-08-01,Scotland,76.2,0.5
+2015-09-01,Scotland,76.0,0.5
+2015-10-01,Scotland,75.7,0.5
+2015-11-01,Scotland,76.1,0.5
+2015-12-01,Scotland,75.1,0.5
+2016-01-01,Scotland,75.2,0.5
+2016-02-01,Scotland,74.0,0.5
+2016-03-01,Scotland,74.9,0.5
+2016-04-01,Scotland,75.0,0.5
+2016-05-01,Scotland,76.0,0.5
+2016-06-01,Scotland,77.1,0.5
+2016-07-01,Scotland,78.2,0.5
+2016-08-01,Scotland,77.4,0.5
+2016-09-01,Scotland,77.2,0.25
+2016-10-01,Scotland,76.7,0.25
+2016-11-01,Scotland,77.4,0.25
+2016-12-01,Scotland,76.0,0.25
+2017-01-01,Scotland,76.0,0.25
+2017-02-01,Scotland,74.8,0.25
+2017-03-01,Scotland,75.2,0.25
+2017-04-01,Scotland,77.5,0.25
+2017-05-01,Scotland,78.1,0.25
+2017-06-01,Scotland,78.9,0.25
+2017-07-01,Scotland,81.1,0.25
+2017-08-01,Scotland,80.9,0.25
+2017-09-01,Scotland,79.4,0.25
+2017-10-01,Scotland,79.7,0.25
+2017-11-01,Scotland,80.4,0.25
+2017-12-01,Scotland,79.8,0.5
+2018-01-01,Scotland,80.7,0.5
+2018-02-01,Scotland,80.2,0.5
+2018-03-01,Scotland,79.5,0.5
+2018-04-01,Scotland,81.6,0.5
+2018-05-01,Scotland,81.7,0.5
+2018-06-01,Scotland,82.4,0.5
+2018-07-01,Scotland,83.4,0.5
+2018-08-01,Scotland,83.6,0.5
+2018-09-01,Scotland,83.2,0.75
+2018-10-01,Scotland,83.3,0.75
+2018-11-01,Scotland,82.2,0.75
+2018-12-01,Scotland,81.5,0.75
+2019-01-01,Scotland,82.3,0.75
+2019-02-01,Scotland,80.7,0.75
+2019-03-01,Scotland,82.2,0.75
+2019-04-01,Scotland,82.9,0.75
+2019-05-01,Scotland,83.2,0.75
+2019-06-01,Scotland,83.9,0.75
+2019-07-01,Scotland,85.1,0.75
+2019-08-01,Scotland,84.7,0.75
+2019-09-01,Scotland,85.1,0.75
+2019-10-01,Scotland,84.6,0.75
+2019-11-01,Scotland,83.8,0.75
+2019-12-01,Scotland,82.6,0.75
+2020-01-01,Scotland,84.4,0.75
+2020-02-01,Scotland,82.2,0.75
+2020-03-01,Scotland,82.8,0.75
+2020-04-01,Scotland,83.4,0.1
+2020-05-01,Scotland,84.0,0.1
+2020-06-01,Scotland,85.4,0.1
+2020-07-01,Scotland,85.0,0.1
+2020-08-01,Scotland,85.0,0.1
+2020-09-01,Scotland,88.3,0.1
+2020-10-01,Scotland,89.6,0.1
+2020-11-01,Scotland,90.2,0.1
+2020-12-01,Scotland,89.2,0.1
+2021-01-01,Scotland,90.2,0.1
+2021-02-01,Scotland,88.9,0.1
+2021-03-01,Scotland,91.9,0.1
+2021-04-01,Scotland,88.4,0.1
+2021-05-01,Scotland,92.5,0.1
+2021-06-01,Scotland,94.4,0.1
+2021-07-01,Scotland,96.4,0.1
+2021-08-01,Scotland,97.5,0.1
+2021-09-01,Scotland,97.6,0.1
+2021-10-01,Scotland,97.6,0.1
+2021-11-01,Scotland,98.7,0.1
+2021-12-01,Scotland,96.6,0.1
+2022-01-01,Scotland,99.1,0.25
+2022-02-01,Scotland,97.6,0.25
+2022-03-01,Scotland,98.0,0.5
+2022-04-01,Scotland,100.0,0.75
+2022-05-01,Scotland,101.3,0.75
+2022-06-01,Scotland,103.4,1.0
+2022-07-01,Scotland,104.5,1.25
+2022-08-01,Scotland,104.7,1.25
+2022-09-01,Scotland,103.7,1.75
+2022-10-01,Scotland,104.1,2.25
+2022-11-01,Scotland,103.1,2.25
+2022-12-01,Scotland,100.3,3.0
+2023-01-01,Scotland,100.0,3.5
+2023-02-01,Scotland,97.8,3.5
+2023-03-01,Scotland,99.0,4.0
+2023-04-01,Scotland,100.2,4.25
+2023-05-01,Scotland,102.7,4.25
+2023-06-01,Scotland,101.5,4.5
+2023-07-01,Scotland,103.4,5.0
+2023-08-01,Scotland,104.3,5.0
+2023-09-01,Scotland,103.0,5.25
+2023-10-01,Scotland,102.8,5.25
+2023-11-01,Scotland,102.3,5.25
+2023-12-01,Scotland,100.8,5.25
+2024-01-01,Scotland,102.4,5.25
+2024-02-01,Scotland,100.5,5.25
+2024-03-01,Scotland,101.5,5.25
+2024-04-01,Scotland,103.2,5.25
+2024-05-01,Scotland,103.0,5.25
+2024-06-01,Scotland,103.5,5.25
+2024-07-01,Scotland,106.2,5.25
+2024-08-01,Scotland,106.4,5.0
+2024-09-01,Scotland,105.4,5.0
+2024-10-01,Scotland,106.0,5.0
+2024-11-01,Scotland,105.5,5.0
+2024-12-01,Scotland,103.9,4.75
+2025-01-01,Scotland,106.0,4.75
+2025-02-01,Scotland,104.3,4.75
+2025-03-01,Scotland,104.9,4.5
+2025-04-01,Scotland,107.3,4.5
+2025-05-01,Scotland,106.6,4.5
+2025-06-01,Scotland,108.8,4.25
+2025-07-01,Scotland,109.8,4.25
+2025-08-01,Scotland,110.2,4.25
+2025-09-01,Scotland,110.2,4.0
+2025-10-01,Scotland,109.6,4.0
